@@ -60,7 +60,11 @@ Dari perbandingan kedua metode, kita dapat melihat bahwa [jelaskan metode mana y
 
 Kesimpulan dari penelitian ini:
 1. Kedua metode fuzzy berhasil mengimplementasikan prediksi status AQI
-2. [Sebutkan metode terbaik] menunjukkan performa yang lebih baik dalam [sebutkan aspek]
+2. Metode Sugeno menunjukkan performa yang lebih baik dibandingkan metode Mamdani dalam hal:
+  - Akurasi: 59.98% vs 58.99% (lebih tinggi 0.99%)
+  - F1-Score: 0.5085 vs 0.4939 (lebih tinggi 0.0146)
+- Keunggulan Sugeno ini dapat dijelaskan oleh:
+  - Penggunaan output crisp yang lebih deterministik
+  - Perhitungan weighted average yang lebih stabil dibandingkan defuzzifikasi centroid
+  - Penanganan yang lebih baik untuk kasus-kasus batas (boundary cases)
 3. Sistem ini dapat digunakan sebagai alternatif untuk prediksi status kualitas udara
-
----

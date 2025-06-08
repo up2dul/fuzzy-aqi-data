@@ -56,7 +56,7 @@ Berdasarkan evaluasi yang dilakukan, kita mendapatkan hasil sebagai berikut:
 ### 4.3 Perbandingan
 Dari perbandingan kedua metode, kita dapat melihat bahwa [jelaskan metode mana yang lebih baik dan mengapa]. Perbedaan performa ini dapat dijelaskan oleh [jelaskan faktor-faktor yang mempengaruhi].
 
-## 5. Kesimpulan dan Saran
+## 5. Kesimpulan
 
 Kesimpulan dari penelitian ini:
 1. Kedua metode fuzzy berhasil mengimplementasikan prediksi status AQI
